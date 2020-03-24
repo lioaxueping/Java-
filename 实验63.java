@@ -15,7 +15,7 @@ public class 实验63 {
      * @param args the command line arguments
      */
     public static void main(String[] args){
-        int sum,counnt=1,a;
+        int sum,counnt=0,a;
         double m,x,y,z;
         Scanner scan=new Scanner(System.in);
         System.out.println("请输入想得到的完全数个数")；
