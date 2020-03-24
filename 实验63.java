@@ -19,7 +19,7 @@ public class 实验63 {
         double m,x,y,z;
         Scanner scan=new Scanner(System.in);
         System.out.println("请输入想得到的完全数个数")；
-        a=scan.nextint();
+        a=scan.nextInt();
        for(int n=2;;n++){
            boolean flg1=true;
            boolean flg2=true;
