@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package 实验6.pkg3;
-import java.uitll.Scanner;
+import java.util.Scanner;
 /**
  *
  * @author 86176
